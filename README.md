@@ -1,6 +1,12 @@
 ## Eliminating Data Discrepancies Between HR and ERP Systems
 
+###Table of Content
+
 - [Project Overview](#Project-Overview)
+- [Project Objective](#Project-Objective)
+- [Data Sources](#Data-Sources)
+- [SQL Queries](#SQL-Queries)
+- [Expected Outcome and Summary](#Expected-Outcome)
 
 ### Project Overview
 This project aims to leverage SQL to conduct comprehensive data integrity checks between two databases HR system and an internal ERP system. 
@@ -96,7 +102,7 @@ WHERE system_data.status = "Active"
 AND (system_data.login_date_time < "23/01/01 23:59:00" OR system_data.login_date_time IS NULL);
 ```
 
-### Expected Outcomes
+### Expected Outcome
 By leveraging SQL
 - We are able to create a detailed report outlining duplicate user accounts, missing active users and inactive users.
 - Improve our data consistency and accuracy between the ERP and HR systems.
