@@ -71,7 +71,7 @@ GROUP BY system_data.email;
 4. /* The code below aims to clean and transform data within the system_data table, focusing on:
         - Converting last_login_date to a proper datetime format.
         - Enriching user data by adding system_title from the hr_system_data table.
-        - Identifying active high-level users based on login date and title criteria. */
+        - Identifying inactive users based on login date and title criteria. */
 
 ALTER TABLE system_data ADD COLUMN login_date_time DATETIME;
 
