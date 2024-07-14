@@ -1,6 +1,6 @@
 ## Eliminating Data Discrepancies Between HR and ERP Systems
 
-###Table of Content
+### Table of Content
 
 - [Project Overview](#Project-Overview)
 - [Project Objective](#Project-Objective)
