@@ -1,4 +1,4 @@
-# Data Integrity Check Between HR and Internal ERP Systems
+## Eliminating Data Discrepancies Between HR and ERP Systems
 
 ### Project Overview
 This project aims to leverage SQL to conduct comprehensive data integrity checks between two databases HR system and an internal ERP system. 
