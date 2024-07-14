@@ -15,7 +15,7 @@ By identifying and rectifying discrepancies, we aim to enhance data accuracy, co
 ### Project Objective
 - Identify and rectify duplicate user accounts within the ERP system.
 - Determine the number of active users in the ERP system who are not present as active employees in the HR system.
-- Identify inactive high-level users (directors, chiefs, VPs, presidents) who haven't logged in since a specified date.
+- Identify inactive users who haven't logged in since a specified date.
 
 ### Data Sources
 Data Org ERP.csv: Contains user account data from the internal ERP system.[Downlaod](https://drive.google.com/file/d/1B9LkmFdqHejdjlOu2sDLsPgnpwBCdXD_/view?usp=sharing)
