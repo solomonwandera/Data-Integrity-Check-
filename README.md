@@ -1,5 +1,7 @@
 ## Eliminating Data Discrepancies Between HR and ERP Systems
 
+- [Project Overview](#Project-Overview)
+
 ### Project Overview
 This project aims to leverage SQL to conduct comprehensive data integrity checks between two databases HR system and an internal ERP system. 
 By identifying and rectifying discrepancies, we aim to enhance data accuracy, consistency, and reliability, ultimately improving decision-making processes within the organization
